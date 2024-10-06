@@ -1,0 +1,21 @@
+C:\Users\ltasilla\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\bin\Debug\Sistema_Planillas_CAS.exe.config
+C:\Users\ltasilla\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\bin\Debug\Sistema_Planillas_CAS.exe
+C:\Users\ltasilla\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\bin\Debug\Sistema_Planillas_CAS.pdb
+C:\Users\ltasilla\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.csproj.AssemblyReference.cache
+C:\Users\ltasilla\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.Form1.resources
+C:\Users\ltasilla\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.Properties.Resources.resources
+C:\Users\ltasilla\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.csproj.GenerateResource.cache
+C:\Users\ltasilla\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.csproj.CoreCompileInputs.cache
+C:\Users\ltasilla\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.exe
+C:\Users\ltasilla\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.pdb
+C:\Users\LUIS TASILLA\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\bin\Debug\Sistema_Planillas_CAS.exe.config
+C:\Users\LUIS TASILLA\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\bin\Debug\Sistema_Planillas_CAS.exe
+C:\Users\LUIS TASILLA\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\bin\Debug\Sistema_Planillas_CAS.pdb
+C:\Users\LUIS TASILLA\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.csproj.AssemblyReference.cache
+C:\Users\LUIS TASILLA\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.Form1.resources
+C:\Users\LUIS TASILLA\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.Properties.Resources.resources
+C:\Users\LUIS TASILLA\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.csproj.GenerateResource.cache
+C:\Users\LUIS TASILLA\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.csproj.CoreCompileInputs.cache
+C:\Users\LUIS TASILLA\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.exe
+C:\Users\LUIS TASILLA\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\obj\Debug\Sistema_Planillas_CAS.pdb
+C:\Users\LUIS TASILLA\Documents\Sistema_Planillas_CAS\Sistema_Planillas_CAS\bin\Debug\logo.png
